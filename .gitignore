@@ -1,0 +1,4 @@
+node_modules
+service-*
+*.tgz
+config.json
